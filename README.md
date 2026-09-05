@@ -1,4 +1,4 @@
-![ezgif com-optimize](https://github.com/user-attachments/assets/c9a3e15f-c8fc-4ffc-9713-59c7b692b721)
+<video src="files/readme-preview.mp4" autoplay loop muted playsinline width="600"></video>
 
 ArcaneFunk
 A modern portfolio website with 3d animations, stylish preloader and music toggle.
