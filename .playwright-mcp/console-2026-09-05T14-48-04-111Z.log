@@ -1,0 +1,3 @@
+[    2338ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:4173/files/hero-1.mp4:0
+[    2354ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:4173/files/hero-1.mp4:0
+[   14380ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:4173/index.html?bust=1788619696141:0

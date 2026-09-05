@@ -1,0 +1,128 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: ArcaneFunk
+        - link " PRODUCT SEE now!" [ref=e9] [cursor=pointer]:
+          - /url: "#"
+          - text: 
+          - generic [ref=e10]:
+            - generic [ref=e11]: PRODUCT
+            - generic [ref=e12]: SEE now!
+      - generic [ref=e13]:
+        - navigation [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "Nexus" [ref=e17] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e18]:
+              - link "Vault" [ref=e19] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e20]:
+              - link "Prologue" [ref=e21] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e22]:
+              - link "About" [ref=e23] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e24]:
+              - link "Contacts" [ref=e25] [cursor=pointer]:
+                - /url: "#"
+        - button "Toggle audio" [ref=e27] [cursor=pointer]: 
+  - main [ref=e28]:
+    - generic [ref=e30]:
+      - heading [level=3] [ref=e31]: ArcaneFunk
+      - paragraph [ref=e34]: 22% • BOOTING METAGAME LAYER…
+    - region "Hero" [ref=e35]:
+      - generic [ref=e36]:
+        - 'heading "ArcaneFunk: Redefine Gaming" [level=1] [ref=e37]'
+        - generic [ref=e38]:
+          - generic "Watch next" [ref=e42]:
+            - generic [ref=e43] [cursor=pointer]
+          - generic [ref=e44]:
+            - generic [ref=e46]:
+              - heading "redefine" [level=2] [ref=e47]
+              - paragraph [ref=e48]: Enter the Metagame Layer Unleash the Play Economy
+              - link " watch trailer watch now!" [ref=e49] [cursor=pointer]:
+                - /url: "#trailer"
+                - text: 
+                - generic [ref=e50]:
+                  - generic [ref=e51]: watch trailer
+                  - generic [ref=e52]: watch now!
+            - heading "Gaming" [level=2]
+        - heading "Gaming" [level=2]
+    - generic [ref=e53]:
+      - heading "About ArcaneFunk" [level=2] [ref=e54]
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: Welcome to ArcaneFunk
+        - heading "Discover the world's largest shared adventure" [level=3] [ref=e57]
+        - generic [ref=e58]:
+          - paragraph [ref=e59]: The Game of Games begins — your life, now an epic MMORPG
+          - paragraph [ref=e60]: ArcaneFunk unites every player from countless games and platforms
+      - generic [ref=e62]:
+        - generic:
+          - generic:
+            - img "Background"
+    - region [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - heading "Into the Metagame Layer" [level=2] [ref=e66]
+          - paragraph [ref=e68]: Immerse yourself in a rich and ever-expanding ecosystem where a vibrant array of products converge into an interconnected universe.
+        - generic [ref=e69]:
+          - article [ref=e70] [cursor=pointer]:
+            - generic [ref=e72]:
+              - heading "RADIANT" [level=3] [ref=e73]
+              - paragraph [ref=e74]: A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure.
+          - article [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]:
+              - heading "Zigma" [level=3] [ref=e78]
+              - paragraph [ref=e79]: An anime and gaming-inspired NFT collection — the IP primed for expansion.
+          - article [ref=e80] [cursor=pointer]:
+            - generic [ref=e82]:
+              - heading "nexus" [level=3] [ref=e83]
+              - paragraph [ref=e84]: A gamified social hub, adding a new dimension of play to social interaction for Web3 communities.
+          - article [ref=e85] [cursor=pointer]:
+            - generic [ref=e87]:
+              - heading "azul" [level=3] [ref=e88]
+              - paragraph [ref=e89]: A cross-world AI Agent — elevating your gameplay to be more fun and productive.
+          - article [ref=e90] [cursor=pointer]:
+            - heading [level=3] [aria-hidden] [ref=e93]: Game Preview
+          - article [ref=e94] [cursor=pointer]:
+            - generic [ref=e96]:
+              - heading "More Coming Soon!" [level=3] [ref=e97]
+              - generic [aria-hidden] [ref=e98]: 
+    - generic [ref=e100]:
+      - paragraph [ref=e101]: The Multiversal ip world
+      - generic [ref=e102]:
+        - heading "The story of a hidden realm" [level=2]
+        - generic [ref=e105]:
+          - img "entrance"
+    - region [ref=e106]:
+      - generic [ref=e108]:
+        - generic [ref=e109]: Join ArcaneFunk
+        - heading "LET'S BUILD THE NEW ERA OF GAMING TOGETHER" [level=2] [ref=e110]
+        - link "contact us now! now!" [ref=e111] [cursor=pointer]:
+          - /url: mailto:team@example.com
+          - generic [ref=e112]:
+            - generic [ref=e113]: contact us
+            - generic [ref=e114]: now! now!
+  - contentinfo [ref=e115]:
+    - generic [ref=e116]:
+      - generic [ref=e117]: © 2025 ArcaneFunk. All rights reserved.
+      - list [ref=e118]:
+        - listitem [ref=e119]:
+          - link " Dribbble" [ref=e120] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=e121]: Dribbble
+        - listitem [ref=e122]:
+          - link " GitHub" [ref=e123] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=e124]: GitHub
+        - listitem [ref=e125]:
+          - link " Discord" [ref=e126] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=e127]: Discord
+      - link "Privacy Policy" [ref=e128] [cursor=pointer]:
+        - /url: "#"

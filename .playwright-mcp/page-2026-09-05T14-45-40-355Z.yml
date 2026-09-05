@@ -1,0 +1,125 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e6]:
+      - generic [ref=f1e7]:
+        - generic [ref=f1e8]: GAMELAND
+        - link " PRODUCT SEE now!" [ref=f1e9] [cursor=pointer]:
+          - /url: "#"
+          - text: 
+          - generic [ref=f1e10]:
+            - generic [ref=f1e11]: PRODUCT
+            - generic [ref=f1e12]: SEE now!
+      - generic [ref=f1e13]:
+        - navigation [ref=f1e14]:
+          - list [ref=f1e15]:
+            - listitem [ref=f1e16]:
+              - link "Nexus" [ref=f1e17] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1e18]:
+              - link "Vault" [ref=f1e19] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1e20]:
+              - link "Prologue" [ref=f1e21] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1e22]:
+              - link "About" [ref=f1e23] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f1e24]:
+              - link "Contacts" [ref=f1e25] [cursor=pointer]:
+                - /url: "#"
+        - button "Toggle audio" [ref=f1e27] [cursor=pointer]: 
+  - main [ref=f1e28]:
+    - generic [ref=f1e30]:
+      - heading [level=3] [ref=f1e31]: GAMELAND
+      - paragraph [ref=f1e34]: 53% • BOOTING METAGAME LAYER…
+    - region "Hero" [ref=f1e35]:
+      - generic [ref=f1e36]:
+        - 'heading "LANDGAME: Redefine Gaming" [level=1] [ref=f1e37]'
+        - generic [ref=f1e41]:
+          - generic [ref=f1e43]:
+            - heading "redefine" [level=2] [ref=f1e44]
+            - paragraph [ref=f1e45]: Enter the Metagame Layer Unleash the Play Economy
+            - link " watch trailer watch now!" [ref=f1e46] [cursor=pointer]:
+              - /url: "#trailer"
+              - text: 
+              - generic [ref=f1e47]:
+                - generic [ref=f1e48]: watch trailer
+                - generic [ref=f1e49]: watch now!
+          - heading "Gaming" [level=2]
+        - heading "Gaming" [level=2]
+    - generic [ref=f1e50]:
+      - heading "About Zentry" [level=2] [ref=f1e51]
+      - generic [ref=f1e52]:
+        - paragraph [ref=f1e53]: Welcome to Zentry
+        - heading "Discover the world's largest shared adventure" [level=3] [ref=f1e54]
+        - generic [ref=f1e55]:
+          - paragraph [ref=f1e56]: The Game of Games begins — your life, now an epic MMORPG
+          - paragraph [ref=f1e57]: Zentry unites every player from countless games and platforms
+      - generic [ref=f1e59]:
+        - generic:
+          - generic:
+            - img "Background"
+    - region [ref=f1e60]:
+      - generic [ref=f1e61]:
+        - generic [ref=f1e62]:
+          - heading "Into the Metagame Layer" [level=2] [ref=f1e63]
+          - paragraph [ref=f1e65]: Immerse yourself in a rich and ever-expanding ecosystem where a vibrant array of products converge into an interconnected universe.
+        - generic [ref=f1e66]:
+          - article [ref=f1e67] [cursor=pointer]:
+            - generic [ref=f1e69]:
+              - heading "RADIANT" [level=3] [ref=f1e70]
+              - paragraph [ref=f1e71]: A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure.
+          - article [ref=f1e72] [cursor=pointer]:
+            - generic [ref=f1e74]:
+              - heading "Zigma" [level=3] [ref=f1e75]
+              - paragraph [ref=f1e76]: An anime and gaming-inspired NFT collection — the IP primed for expansion.
+          - article [ref=f1e77] [cursor=pointer]:
+            - generic [ref=f1e79]:
+              - heading "nexus" [level=3] [ref=f1e80]
+              - paragraph [ref=f1e81]: A gamified social hub, adding a new dimension of play to social interaction for Web3 communities.
+          - article [ref=f1e82] [cursor=pointer]:
+            - generic [ref=f1e84]:
+              - heading "azul" [level=3] [ref=f1e85]
+              - paragraph [ref=f1e86]: A cross-world AI Agent — elevating your gameplay to be more fun and productive.
+          - article [ref=f1e87] [cursor=pointer]:
+            - heading [level=3] [aria-hidden] [ref=f1e90]: Game Preview
+          - article [ref=f1e91] [cursor=pointer]:
+            - generic [ref=f1e93]:
+              - heading "More Coming Soon!" [level=3] [ref=f1e94]
+              - generic [aria-hidden] [ref=f1e95]: 
+    - generic [ref=f1e97]:
+      - paragraph [ref=f1e98]: The Multiversal ip world
+      - generic [ref=f1e99]:
+        - heading "The story of a hidden realm" [level=2]
+        - generic [ref=f1e102]:
+          - img "entrance"
+    - region [ref=f1e103]:
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]: Join Zentry
+        - heading "LET'S BUILD THE NEW ERA OF GAMING TOGETHER" [level=2] [ref=f1e107]
+        - link "contact us now! now!" [ref=f1e108] [cursor=pointer]:
+          - /url: mailto:team@example.com
+          - generic [ref=f1e109]:
+            - generic [ref=f1e110]: contact us
+            - generic [ref=f1e111]: now! now!
+  - contentinfo [ref=f1e112]:
+    - generic [ref=f1e113]:
+      - generic [ref=f1e114]: © 2025 LANDGAME. All rights reserved.
+      - list [ref=f1e115]:
+        - listitem [ref=f1e116]:
+          - link " Dribbble" [ref=f1e117] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=f1e118]: Dribbble
+        - listitem [ref=f1e119]:
+          - link " GitHub" [ref=f1e120] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=f1e121]: GitHub
+        - listitem [ref=f1e122]:
+          - link " Discord" [ref=f1e123] [cursor=pointer]:
+            - /url: "#"
+            - text: 
+            - generic [ref=f1e124]: Discord
+      - link "Privacy Policy" [ref=f1e125] [cursor=pointer]:
+        - /url: "#"
