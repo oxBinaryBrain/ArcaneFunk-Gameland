@@ -1,4 +1,4 @@
-![ArcaneFunk preview](https://raw.githubusercontent.com/oxBinaryBrain/ArcaneFunk-Gameland/main/files/readme-preview.mp4)
+![ArcaneFunk preview](https://github.com/user-attachments/assets/c9a3e15f-c8fc-4ffc-9713-59c7b692b721)
 
 ArcaneFunk
 A modern portfolio website with 3d animations, stylish preloader and music toggle.
