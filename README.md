@@ -1,4 +1,4 @@
-<video src="files/readme-preview.mp4" autoplay loop muted playsinline width="600"></video>
+<video src="https://raw.githubusercontent.com/oxBinaryBrain/ArcaneFunk-Gameland/main/files/readme-preview.mp4" autoplay loop muted playsinline width="600"></video>
 
 ArcaneFunk
 A modern portfolio website with 3d animations, stylish preloader and music toggle.
